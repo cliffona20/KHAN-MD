@@ -6,8 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=ff0000&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
 </p>
 
-<div align="center">
-
+<div align="center"IK~4a9lWbSI#y6C8scOpm2O9Wp1WAk4jUl7NSXTdt7elr7gLDc4WL3E
 ---
 
 ## 📊 Project Stats
